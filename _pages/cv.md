@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Electrical engineering, HUST, 2012
+* M.Sc in Electronic engineering, HKUST, 2014
+* Ph.D. in Computer engineering (data mining), Arizona State University, Ongoing...
 
-Work experience
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017-: Research Assistant/Teaching Assistant
+  * Arizona State University
+  * Supervisor: Dr. Huan Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014-Spring 2017: Research Assistant
+  * Arizona State University
+  * Supervisor: Dr. Paulo Shakarian
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning: tensorflow
 
 Publications
 ======
@@ -56,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: AAAI'18, CIKM'17, ICWSM'17, SNAM'17, KDD'16, ASONAM'15, AAMAS'15
