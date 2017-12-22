@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electrical engineering, HUST, 2012
 * M.Sc in Electronic engineering, HKUST, 2014
-* Ph.D. in Computer engineering (data mining), Arizona State University, Ongoing...
+* Ph.D. in Computer engineering (data mining), Arizona State University, Ongoing
 
 Academic experience
 ======
