@@ -1,0 +1,15 @@
+---
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'In this paper, we proposed a diffusion network based feature engineering algorithm to achieve successful prediction of *viral* cascades.'
+date: 2015-08-25
+venue: 'ASONAM'15'
+paperurl: 'https://arxiv.org/pdf/1508.03371.pdf'
+citation: 'Recommended citation: Guo, Ruocheng, Elham Shaabani, Abhinav Bhatnagar, and Paulo Shakarian. "Toward order-of-magnitude cascade prediction." In Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2015, pp. 1610-1613. ACM, 2015.'
+---
+In this paper, we proposed a diffusion network based feature engineering algorithm to achieve successful prediction of *viral* cascades.
+
+[Download paper here](https://arxiv.org/pdf/1508.03371.pdf)
+
+Recommended citation: Guo, Ruocheng, Elham Shaabani, Abhinav Bhatnagar, and Paulo Shakarian. "Toward order-of-magnitude cascade prediction." In Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2015, pp. 1610-1613. ACM, 2015.
