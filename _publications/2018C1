@@ -3,13 +3,13 @@ title: "Strongly Hierarchical Factorization Machines and ANOVA Kernel Regression
 collection: publications
 permalink: /publication/2018C1
 excerpt: ''
-date: 2009-10-01
+date: 2017-10-13
 venue: 'SDM 18'
-paperurl: 'http://rguo41.github.io/files/SDM18.pdf'
-citation: 'Ruocheng Guo, Hamidreza Alvari and Paulo Shakarian. "Strongly Hierarchical Factorization Machines and ANOVA Kernel Regression." SDM 2018 (to be presented). <i>Conference 1</i>. 1(1).'
+paperurl: 'http://arxiv.org/abs/1712.09133'
+citation: 'Ruocheng Guo, Hamidreza Alvari and Paulo Shakarian. "Strongly Hierarchical Factorization Machines and ANOVA Kernel Regression." <i>SDM 2018 (to appear)</i>.'
 ---
 .
 
-[Download paper here](http://rguo41.github.io/files/SDM18.pdf)
+[Download paper here](http://arxiv.org/abs/1712.09133)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Ruocheng Guo, Hamidreza Alvari and Paulo Shakarian. "Strongly Hierarchical Factorization Machines and ANOVA Kernel Regression." <i>SDM 2018 (to appear)</i>.'
