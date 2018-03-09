@@ -21,4 +21,4 @@ TODO
 ------
 
 [1] Martin Arjovsky and L´eon Bottou. Towards principled methods for training generative adversarial networks.
-In International Conference on Learning Rep- resentations, 2017.
+In International Conference on Learning Representations, 2017.
