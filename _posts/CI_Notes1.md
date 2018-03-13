@@ -16,8 +16,8 @@ the underlying causal structure over a set of r.vs can be recovered from their o
 at least to some extent.
 
 **Conditional independence** has been exploited to discover causal structure since 1990s:
-1). PC: asymptotically correct, no confounder assumption.
-2). FCI: asymptotically correct, w. confounder assumption.
+1. PC: asymptotically correct, no confounder assumption.
+2. FCI: asymptotically correct, w. confounder assumption.
 (How to evaluate the correctness?)
 They output equivalent classes (and graphical repr. of them)
 i.e. a set of causal structures satisfying the conditional indenpences.
