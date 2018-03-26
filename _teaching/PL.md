@@ -7,12 +7,3 @@ venue: "Arizona State University, Computer Science"
 date: 2018-01-09
 location: "Tempe, Arizona"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
