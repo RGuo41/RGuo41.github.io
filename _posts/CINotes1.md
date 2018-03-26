@@ -5,7 +5,7 @@ permalink: /posts/CINotes1.md
 tags:
   - Causality Inference
   - Paper Notes
----
+
 
 **Identify** causal relation from **observational data**.
 
@@ -24,3 +24,5 @@ i.e. a set of causal structures satisfying the conditional indenpences.
 (What is a causal structure?)
 So, they do not necessarily provide complete causal info.
 (Why?)
+---
+
