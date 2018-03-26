@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/ASONAM15
 venue: "ASONAM 2015"
-date: 2014-02-01
-location: "London, UK"
+date: 2015-08-23
+location: "Paris, France"
 ---
 Will be uploaded!
