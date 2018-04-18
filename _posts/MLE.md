@@ -1,7 +1,7 @@
 ---
 title: 'The problematic MLE'
 date: 2017-12-31
-permalink: /posts/MLE.md
+permalink: /posts/MLE/
 tags:
   - MLE
   - Generative Model

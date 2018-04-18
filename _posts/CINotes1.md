@@ -1,12 +1,12 @@
 ---
 title: 'Causality Inference Notes1: Learning causality and causality-related learning: some recent progress'
 date: 2018-01-09
-permalink: /posts/CINotes1.md
+permalink: /posts/CINotes1/
 tags:
   - Causality Inference
   - Paper Notes
 
-
+---
 **Identify** causal relation from **observational data**.
 
 Correlation does not directly imply causation. 
@@ -24,5 +24,5 @@ i.e. a set of causal structures satisfying the conditional indenpences.
 (What is a causal structure?)
 So, they do not necessarily provide complete causal info.
 (Why?)
----
+
 
