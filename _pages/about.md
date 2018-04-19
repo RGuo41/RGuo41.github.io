@@ -22,7 +22,7 @@ My most interested research topics are Machine Learning, Causal Inference and So
 ### 2018
 * **Ruocheng Guo**, Jundong Li and Huan Liu. "INITIATOR: Noise-contrastive Estimation for Marked Temporal Point Process" *IJCAI 2018 (to appear)*.
 
-* **Ruocheng Guo**, Hamidreza Alvari and Paulo Shakarian. ["Strongly Hierarchical Factorization Machines and ANOVA Kernel Regression."](https://arxiv.org/abs/1712.09133) *SDM 2018 (to appear)*.
+* **Ruocheng Guo**, Hamidreza Alvari and Paulo Shakarian. ["Strongly Hierarchical Factorization Machines and ANOVA Kernel Regression."](https://arxiv.org/abs/1712.09133) *SDM 2018 (to appear)*. [appendix] (http://rguo41.github.io/files/2018C1A.pdf)
 
 ### 2015-2017
 
