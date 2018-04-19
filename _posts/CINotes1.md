@@ -1,12 +1,12 @@
 ---
-title: 'Causality Inference Notes1: Learning causality and causality-related learning: some recent progress'
+title: 'Causality Inference Notes1'
 date: 2018-01-09
 permalink: /posts/2018/01/CINotes1/
 tags:
   - Causality Inference
   - Paper Notes
-
 ---
+
 **Identify** causal relation from **observational data**.
 
 Correlation does not directly imply causation. 
