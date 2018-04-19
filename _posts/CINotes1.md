@@ -1,7 +1,7 @@
 ---
 title: 'Causality Inference Notes1: Learning causality and causality-related learning: some recent progress'
 date: 2018-01-09
-permalink: /posts/CINotes1/
+permalink: /2018/CINotes1/
 tags:
   - Causality Inference
   - Paper Notes
