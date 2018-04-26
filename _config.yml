@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruocheng Guo's Homepage"
+title                    : "Homepage of Ruocheng Guo"
 title_separator          : "-"
 name                     : &name "Ruocheng Guo"
-description              : &description "Ph.D. student@Arizona State"
-url                      : https://rguo41.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D. student, Data Mining and Machine Learning Laboratory, Arizona State University"
+url                      : "https://rguo41.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RGuo41/RGuo41.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -65,8 +65,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  name                   : Ruocheng Guo # If the user or organization name differs from the site's name
+  links: 
+    - https://www.facebook.com/mcspinemo # An array of links to social media profiles
 
 
 # Analytics
@@ -259,6 +260,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
