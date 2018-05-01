@@ -49,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer: AAAI'18, CIKM'17, ICWSM'17, SNAM'17, KDD'16, ASONAM'15, AAMAS'15
+* Reviewer: SIGIR'18, AAAI'18, CIKM'17, ICWSM'17, SNAM'17, KDD'18'16, ASONAM'15, AAMAS'15
